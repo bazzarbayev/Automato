@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Automato</string>
+    <string name="gps_loading">GPS loading...</string>
+    <string name="stop">Стоп</string>
+    <string name="start">Начать</string>
+
+</resources>
